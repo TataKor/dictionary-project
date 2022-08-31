@@ -16,8 +16,8 @@ export default function Results(props) {
               </div>
             );
           })}
-        </section>
-        {props.results.meanings.map((meaning, index) => {
+         </section>
+        {props.results.meanings.map(function (meaning, index) {
           return (
             <section key={index}>
               <Meaning meaning={meaning} />

@@ -4,7 +4,7 @@
 }
 
 .Dictionary section {
-  background-color: #f5d8fd;
+  background-color: #ede2fa;
   margin: 20px;
   padding: 20px 30px;
   border-radius: 12px;
@@ -27,6 +27,6 @@
   width: 100%;
 }
 .Dictionary .hint {
-  font-size: 13px;
+  font-size: 15px;
   margin-left: 10px;
 }
