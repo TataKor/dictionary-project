@@ -9,7 +9,7 @@ export default function AudioPlayer(props) {
   };
   return (
     <button className="Audio" onClick={start}>
-      <i className="fa-solid fa-circle-play"></i>
+      <i class="fa-solid fa-circle-play"></i>
     </button>
   );
 }
